@@ -28,5 +28,3 @@ The dataset comprises two CSV files: one containing real news and the other cont
 ## Contributions
 This project is open for contributions. Feel free to fork the repository and submit pull requests.
 
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
